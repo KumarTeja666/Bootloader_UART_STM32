@@ -1,0 +1,10 @@
+../Core/Src/main.c:81:19:send_command	1
+../Core/Src/main.c:89:19:send_get_command	3
+../Core/Src/main.c:132:19:send_address	2
+../Core/Src/main.c:150:19:send_data_chunk	5
+../Core/Src/main.c:172:6:send_firmware_to_target	5
+../Core/Src/main.c:206:5:main	5
+../Core/Src/main.c:297:6:SystemClock_Config	4
+../Core/Src/main.c:344:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:379:13:MX_GPIO_Init	1
+../Core/Src/main.c:411:6:Error_Handler	1

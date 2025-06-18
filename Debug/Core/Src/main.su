@@ -1,0 +1,10 @@
+../Core/Src/main.c:81:19:send_command	24	static
+../Core/Src/main.c:89:19:send_get_command	16	static
+../Core/Src/main.c:132:19:send_address	32	static
+../Core/Src/main.c:150:19:send_data_chunk	288	static
+../Core/Src/main.c:172:6:send_firmware_to_target	24	static
+../Core/Src/main.c:206:5:main	16	static
+../Core/Src/main.c:297:6:SystemClock_Config	160	static
+../Core/Src/main.c:344:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:379:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:411:6:Error_Handler	4	static,ignoring_inline_asm
